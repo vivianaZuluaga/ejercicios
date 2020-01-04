@@ -1,0 +1,12 @@
+{
+    "config": {
+        "platform": {
+            "php": "5.5.9"
+        }
+    },
+    "require": {
+        "illuminate/database": "^5.2",
+        "zendframework/zend-diactoros": "^1.4",
+        "aura/router": "^3.1"
+    }
+}
